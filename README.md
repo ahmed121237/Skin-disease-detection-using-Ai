@@ -5,6 +5,7 @@ An AI-powered web application for detecting common skin diseases using images.�
 ⚠️ Educational Purpose Only – This project does not replace professional medical diagnosis.
 
 📌 Project Overview
+
 This project is a web-based application that uses Deep Learning (CNN) to classify skin images into common skin disease categories.
   - Users can upload a skin image.
   - The system processes the image.
