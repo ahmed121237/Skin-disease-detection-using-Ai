@@ -30,6 +30,7 @@ The model classifies images into four categories:
 
 
 🧠 How the System Works
+
 1. User uploads a skin image.
 2. The image is preprocessed (resizing & normalization).
 3. A Convolutional Neural Network (CNN) analyzes the image.
@@ -37,6 +38,7 @@ The model classifies images into four categories:
 
 
 🛠 Technologies Used
+
 . Python
 . TensorFlow / Keras
 . Convolutional Neural Networks (CNN)
@@ -46,6 +48,7 @@ The model classifies images into four categories:
 
 
 📊 Dataset
+
 . Contains labeled images of skin diseases.
 . Split into:
     1. Training set
@@ -56,16 +59,19 @@ The model classifies images into four categories:
 
 
 🖥 User Interface
+
 . Simple and clean design.
 . Image upload functionality.
 . Clear display of prediction results and confidence scores.
 
 
 ⚠️ Disclaimer
+
 This project is intended for educational purposes only and should not be used as a substitute for professional medical advice or diagnosis.
 
 
 🔮 Future Improvements
+
 1. Add more skin disease classes.
 2. Improve model accuracy using a larger dataset.
 3. Deploy the application online.
