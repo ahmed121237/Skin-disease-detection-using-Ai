@@ -1,6 +1,7 @@
 # Skin-disease-detection-using-Ai
 
 🩺 Skin Disease Detection Web App (AI)
+
 An AI-powered web application for detecting common skin diseases using images. The system analyzes uploaded skin images and predicts the most likely disease along with a confidence percentage.
 ⚠️ Educational Purpose Only – This project does not replace professional medical diagnosis.
 
